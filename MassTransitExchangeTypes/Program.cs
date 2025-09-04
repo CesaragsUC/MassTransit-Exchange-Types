@@ -1,10 +1,7 @@
 ﻿using MassTransit;
-using MassTransit.RabbitMqTransport.Topology;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using RabbitMQ.Client;
-using System.Runtime.Intrinsics.X86;
-using System;
 
 namespace MassTransitExchangeTypes;
 
